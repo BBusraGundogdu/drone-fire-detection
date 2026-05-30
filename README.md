@@ -226,8 +226,8 @@ Ağırlıklar: α = 1, β = 10, γ = 5
 ##  İletişim
 
 Sorular, öneriler veya işbirlikleri için:"  
-- Firdevs KUTLU — `firdevs.kutlu@ogr.deu.edu.tr`
-- Büşra GÜNDOĞDU — `busra.gundogdu@ogr.deu.edu.tr`
+- Firdevs KUTLU — `firdevs.ktl@gmail.com`
+- Büşra GÜNDOĞDU — `gundogdub889@gmail.com`
 
 ---
 ## Yapay Zeka Kullanım Beyanı
