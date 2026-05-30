@@ -91,14 +91,28 @@ Pilot bölge dört temel kritere göre seçilmiştir:
 
 Sistem üç farklı ölçekte test edilmiştir:
 
-| Konfigürasyon | Yöntem | Kapsama | İhlal | Slack (dk) | Süre |
-|---|---|---|---|---|---|
-| 44 hücre (pilot)  | KTSDP        | 44/44 (%100)     | 21  | 4.585     | 42,8 dk |
-| 110 hücre (orta)  | KTSDP        | 110/110 (%100)   | 80  | 635.904   | 105,6 dk |
-| 110 hücre (orta)  | UGKA         | 110/110 (%100)   | 43  | 673.879   | < 1 dk |
-| 340 hücre (tam)   | Saf KTSDP    | —                | —   | —         | Timeout |
-| 340 hücre (tam)   | V25          | 303/340 (%89,1)  | 274 | 7.516.848 | 471,3 dk |
-| 340 hücre (tam)   | **V25 + UGKA** | **340/340 (%100)** | 305 | **6.843.782** | **478,0 dk** |
+Konfigürasyon   	Yöntem	  Kapsama	  İhlal	  Slack (dk)  	Süre (dk)
+
+
+44 hücre(Pilot)    KTSDP	   44/44       21      4.585	      42,8         
+                             (%100)   	
+
+ 
+110 hücre(Orta)    KTSDP	   110/110  	 80	     635.904     105,6
+                              (%100) 
+
+110 hücre(Orta)	   UGKA	     110/110 	   43	     673.879      	<1
+                              (%100)
+
+                              
+340 hücre(Tam)	   Saf KTSDP	                        —	—	—	Zaman Aşımı
+
+340 hücre (Tam)	    V25	     303/340 	  274    	7.516.848	     471,3
+                             (%89,1)
+
+
+340 hücre (Tam)	 V25+ UGKA 	340/340   	305	   6.843.782     	478,0
+                             (%100)
 
 **Temel bulgular:**
 
